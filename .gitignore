@@ -1,0 +1,13 @@
+.env
+.env.*
+*.log
+.DS_Store
+.idea/
+.vscode/
+build/
+.gradle/
+node_modules/
+.claude/settings.local.json
+# 설문·인터뷰 원문 실수 방지
+docs/**/raw*
+docs/**/*원문*
